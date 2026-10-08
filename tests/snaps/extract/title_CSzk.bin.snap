@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "是",
+  "TRIAL_DIALOG_TXT_001": "此体验版支持保存功能。\r\n体验版的保存数据\r\n可以继承至正式版。",
+  "TRIAL_DIALOG_BUTTON_003_02": "不继承",
+  "TITLE_MENU_TXT_02": "继续游玩贞德外传。",
+  "TRIAL_DIALOG_TITLE_002": "进行更多冒险！",
+  "TITLE_MENU_TXT_01": "从头开始游玩贞德外传。",
+  "TRIAL_DIALOG_TITLE_001": "关于体验版",
+  "TRIAL_DIALOG_BUTTON_004_02": "否",
+  "TRIAL_DIALOG_TXT_002": "瑟蕾莎与小柴猫的冒险才刚开始！\r\n可以在正式版游玩两人故事的后续哦！\r\n※可以继承体验版的保存数据。",
+  "TRIAL_DIALOG_BUTTON_003_01": "继承",
+  "TITLE_ANNOTATION": "体验版",
+  "TRIAL_DIALOG_BUTTON_002_01": "前往Nintendo eShop",
+  "DIFFICULTY_TXT_02": "适合已熟悉这个故事的玩家，\r\n略具挑战的难度。",
+  "DIFFICULTY_TXT_01": "可轻松享受剧情的基础难度。",
+  "TRIAL_DIALOG_BUTTON_001_01": "关闭",
+  "TRIAL_DIALOG_BUTTON_002_02": "返回标题",
+  "DIFFICULTY_TXT_03": "无法在中途变更难度。\r\n另外，选择该难度后将无法变更轻松游玩设置。\r\n是否确定选择该难度？",
+  "TRIAL_DIALOG_TITLE_004": "确定继承",
+  "TRIAL_DIALOG_TXT_003": "已找到体验版的保存数据。\r\n要继承保存数据吗？",
+  "TRIAL_DIALOG_TXT_004": "如果不在此继承，\r\n将无法再次继承体验版的数据。\r\n确定可以吗？",
+  "TRIAL_DIALOG_TITLE_003": "继承保存数据"
+}

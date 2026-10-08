@@ -1,0 +1,1 @@
+import{n as e,t}from"./Common-Cx_gOvvl.mjs";function n(n){let{sections:r}=e(n),i=/* @__PURE__ */ new Map;for(let e of r)for(let n of e.tables)if(n.name===`Text`)for(let e of n.records)i.set(e.reference,t(e.value));return i}export{n as extract};

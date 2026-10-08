@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "是",
+  "TRIAL_DIALOG_TXT_001": "此體驗版支援儲存功能。\r\n體驗版的儲存資料\r\n可以繼承至正式版。",
+  "TRIAL_DIALOG_BUTTON_003_02": "不繼承",
+  "TITLE_MENU_TXT_02": "繼續遊玩貞德外傳。",
+  "TRIAL_DIALOG_TITLE_002": "進行更多冒險！",
+  "TITLE_MENU_TXT_01": "從頭開始遊玩貞德外傳。",
+  "TRIAL_DIALOG_TITLE_001": "關於體驗版",
+  "TRIAL_DIALOG_BUTTON_004_02": "否",
+  "TRIAL_DIALOG_TXT_002": "瑟蕾莎與小柴貓的冒險才剛開始！\r\n可以在正式版遊玩兩人故事的後續喔！\r\n※可以繼承體驗版的儲存檔案。",
+  "TRIAL_DIALOG_BUTTON_003_01": "繼承",
+  "TITLE_ANNOTATION": "體驗版",
+  "TRIAL_DIALOG_BUTTON_002_01": "前往Nintendo eShop",
+  "DIFFICULTY_TXT_02": "適合已經熟悉這個故事的玩家。\r\n很有挑戰性的難度。",
+  "DIFFICULTY_TXT_01": "可輕鬆遊玩故事的基本難度。",
+  "TRIAL_DIALOG_BUTTON_001_01": "關閉",
+  "TRIAL_DIALOG_BUTTON_002_02": "返回標題",
+  "DIFFICULTY_TXT_03": "過程中無法更改難度。\r\n在此難度中也無法更改遊戲難度相關設定。\r\n真的要以此難度遊玩嗎？",
+  "TRIAL_DIALOG_TITLE_004": "繼承確認",
+  "TRIAL_DIALOG_TXT_003": "已找到體驗版的儲存資料。\r\n要繼承儲存資料嗎？",
+  "TRIAL_DIALOG_TXT_004": "如果不在此繼承，\r\n將無法再次繼承體驗版的資料。\r\n真的可以嗎？",
+  "TRIAL_DIALOG_TITLE_003": "繼承儲存資料"
+}

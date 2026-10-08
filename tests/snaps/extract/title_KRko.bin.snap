@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "예",
+  "TRIAL_DIALOG_TXT_001": "이 체험판은 저장 기능에 대응합니다.\r\n체험판의 저장 데이터는\r\n제품판에서 이어서 플레이할 수 있습니다.",
+  "TRIAL_DIALOG_BUTTON_003_02": "이어받지 않기",
+  "TITLE_MENU_TXT_02": "잔느 외전을 이어서 플레이합니다.",
+  "TRIAL_DIALOG_TITLE_002": "이어지는 모험 속으로!",
+  "TITLE_MENU_TXT_01": "잔느 외전을 처음부터 플레이합니다.",
+  "TRIAL_DIALOG_TITLE_001": "체험판에 대해서",
+  "TRIAL_DIALOG_BUTTON_004_02": "아니요",
+  "TRIAL_DIALOG_TXT_002": "세레자와 체셔의 모험은 이제 막 시작되었습니다!\r\n이어지는 이야기는 제품판에서 플레이할 수 있습니다!\r\n※체험판의 저장 데이터를 이어서 플레이할 수 있습니다.",
+  "TRIAL_DIALOG_BUTTON_003_01": "이어받기",
+  "TITLE_ANNOTATION": "체험판",
+  "TRIAL_DIALOG_BUTTON_002_01": "닌텐도 e숍으로 이동",
+  "DIFFICULTY_TXT_02": "이 이야기에 익숙한 사람들을 위한\r\n도전할 가치가 있는 난이도입니다.",
+  "DIFFICULTY_TXT_01": "편하게 이야기를 즐길 수 있는\r\n기본이 되는 난이도입니다.",
+  "TRIAL_DIALOG_BUTTON_001_01": "닫기",
+  "TRIAL_DIALOG_BUTTON_002_02": "타이틀로 돌아가기",
+  "DIFFICULTY_TXT_03": "도중에 난이도를 변경할 수 없으며\r\n조작 난이도 설정 또한 변경할 수 없습니다.\r\n정말 이 난이도로 게임을 플레이하시겠습니까?",
+  "TRIAL_DIALOG_TITLE_004": "저장 데이터 이어받기 확인",
+  "TRIAL_DIALOG_TXT_003": "체험판의 저장 데이터가 존재합니다.\r\n저장 데이터를 이어받으시겠습니까?",
+  "TRIAL_DIALOG_TXT_004": "여기서 저장 데이터를 이어받지 않는 경우\r\n체험판의 데이터는 두 번 다시 이어받을 수 없습니다.\r\n이어받지 않아도 괜찮으시겠습니까?",
+  "TRIAL_DIALOG_TITLE_003": "저장 데이터 이어받기"
+}

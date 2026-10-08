@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "Sí",
+  "TRIAL_DIALOG_TXT_001": "Esta versión de prueba permite\r\ntransferir sus datos de guardado\r\na la versión completa del juego.",
+  "TRIAL_DIALOG_BUTTON_003_02": "No",
+  "TITLE_MENU_TXT_02": "Sigue jugando a las hazañas\r\nde Jeanne.",
+  "TRIAL_DIALOG_TITLE_002": "¡El viaje continúa!",
+  "TITLE_MENU_TXT_01": "Juega a las hazañas de Jeanne\r\ndesde el principio.",
+  "TRIAL_DIALOG_TITLE_001": "Información:",
+  "TRIAL_DIALOG_BUTTON_004_02": "No",
+  "TRIAL_DIALOG_TXT_002": "Las aventuras de Cereza y\r\nCheshire acaban de empezar.\r\n¡En la versión completa puedes\r\ndescubrir adónde les llevarán!",
+  "TRIAL_DIALOG_BUTTON_003_01": "Sí",
+  "TITLE_ANNOTATION": "Versión de prueba",
+  "TRIAL_DIALOG_BUTTON_002_01": "Nintendo eShop",
+  "DIFFICULTY_TXT_02": "Grandes dosis de acción\r\npara quienes dominen la historia.",
+  "DIFFICULTY_TXT_01": "Para disfrutar de la historia\r\na tu propio ritmo.",
+  "TRIAL_DIALOG_BUTTON_001_01": "Aceptar",
+  "TRIAL_DIALOG_BUTTON_002_02": "Pantalla del título",
+  "DIFFICULTY_TXT_03": "Una vez seleccionado, no podrás cambiar este nivel\r\nde dificultad y los ajustes de ayuda tampoco estarán\r\ndisponibles. ¿Quieres continuar?",
+  "TRIAL_DIALOG_TITLE_004": "Datos de guardado (v. de prueba)",
+  "TRIAL_DIALOG_TXT_003": "Se han encontrado datos\r\nde guardado de la versión\r\nde prueba. ¿Quieres seguir\r\njugando con estos datos?",
+  "TRIAL_DIALOG_TXT_004": "Si no transfieres los datos\r\nde guardado ahora, no podrás\r\nhacerlo más adelante.\r\n¿Quieres continuar?",
+  "TRIAL_DIALOG_TITLE_003": "Transferir datos"
+}

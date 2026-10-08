@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "Yes",
+  "TRIAL_DIALOG_TXT_001": "This demo allows for your save \r\ndata to be carried over to the \r\nfull version of the game.",
+  "TRIAL_DIALOG_BUTTON_003_02": "No",
+  "TITLE_MENU_TXT_02": "Continue playing Jeanne's tale.",
+  "TRIAL_DIALOG_TITLE_002": "The Journey Continues!",
+  "TITLE_MENU_TXT_01": "Play Jeanne's tale from the beginning.",
+  "TRIAL_DIALOG_TITLE_001": "Regarding This Demo:",
+  "TRIAL_DIALOG_BUTTON_004_02": "No",
+  "TRIAL_DIALOG_TXT_002": "Cereza and Cheshire's adventure\r\ncontinues in the full version!\r\n(You can start right from\r\nwhere you left off in the demo.)",
+  "TRIAL_DIALOG_BUTTON_003_01": "Yes",
+  "TITLE_ANNOTATION": "Demo",
+  "TRIAL_DIALOG_BUTTON_002_01": "Nintendo eShop",
+  "DIFFICULTY_TXT_02": "Satisfying action for players\r\ncomfortable with this story.",
+  "DIFFICULTY_TXT_01": "For casually enjoying the game's story.",
+  "TRIAL_DIALOG_BUTTON_001_01": "OK",
+  "TRIAL_DIALOG_BUTTON_002_02": "Title Screen",
+  "DIFFICULTY_TXT_03": "Once chosen, this difficulty cannot be changed.\r\nGame help settings will also be unavailable.\r\nProceed with this difficulty?",
+  "TRIAL_DIALOG_TITLE_004": "Demo Save Data: Confirmation",
+  "TRIAL_DIALOG_TXT_003": "Save data from the demo found.\r\nContinue playing from this data?",
+  "TRIAL_DIALOG_TXT_004": "Save data that is not carried over \r\nnow cannot be carried over later. \r\nOkay to proceed?",
+  "TRIAL_DIALOG_TITLE_003": "Carrying Over Data"
+}

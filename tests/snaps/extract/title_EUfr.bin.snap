@@ -1,0 +1,23 @@
+{
+  "TRIAL_DIALOG_BUTTON_004_01": "Oui",
+  "TRIAL_DIALOG_TXT_001": "Les données de sauvegarde de\r\ncette version démo peuvent être\r\ntransférées dans la version\r\ncomplète du jeu.",
+  "TRIAL_DIALOG_BUTTON_003_02": "Non",
+  "TITLE_MENU_TXT_02": "Continuer à jouer à l'histoire de Jeanne.",
+  "TRIAL_DIALOG_TITLE_002": "L'aventure continue !",
+  "TITLE_MENU_TXT_01": "Jouer à l'histoire de Jeanne depuis le début.",
+  "TRIAL_DIALOG_TITLE_001": "À propos de la version démo",
+  "TRIAL_DIALOG_BUTTON_004_02": "Non",
+  "TRIAL_DIALOG_TXT_002": "L'aventure continue dans la\r\nversion complète ! (Vous\r\npourrez reprendre la partie là\r\noù vous en étiez dans la démo.)",
+  "TRIAL_DIALOG_BUTTON_003_01": "Oui",
+  "TITLE_ANNOTATION": "Version démo",
+  "TRIAL_DIALOG_BUTTON_002_01": "Nintendo eShop",
+  "DIFFICULTY_TXT_02": "Pour tous ceux qui ont envie d'action\r\net sont à l'aise avec cette histoire.",
+  "DIFFICULTY_TXT_01": "Pour tous ceux qui ont envie de jouer à leur rythme.",
+  "TRIAL_DIALOG_BUTTON_001_01": "OK",
+  "TRIAL_DIALOG_BUTTON_002_02": "Écran titre",
+  "DIFFICULTY_TXT_03": "Une fois choisi, ce niveau de difficulté\r\nne peut plus être changé. Les paramètres\r\nd'aide seront également indisponibles.\r\nChoisir ce niveau de difficulté ?",
+  "TRIAL_DIALOG_TITLE_004": "Données de sauvegarde - Confirmation",
+  "TRIAL_DIALOG_TXT_003": "Des données de sauvegarde de la\r\nversion démo ont été trouvées.\r\nContinuer à partir de ces\r\ndonnées ?",
+  "TRIAL_DIALOG_TXT_004": "Les données de sauvegarde non\r\ntransférées maintenant ne\r\npourront pas être transférées\r\nplus tard. Continuer ?",
+  "TRIAL_DIALOG_TITLE_003": "Transfert des données"
+}
